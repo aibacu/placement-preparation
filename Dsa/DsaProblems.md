@@ -7,6 +7,7 @@ Welcome to my DSA repository where I solve problems by topic. Below are categori
 
 ## Arrays
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+
 it is example
 - it is ex
 
