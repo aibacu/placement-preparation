@@ -2,19 +2,13 @@
 
 This repository contains everything I’m using to prepare for Software Development Engineer (SDE) interviews including:
 
-- ✅ Data Structures & Algorithms (DSA)
+- ✅ [Data Structures & Algorithms (DSA) ](Dsa/DsaProblems.md)
 - 🖥️ Computer Science Fundamentals (OS, DBMS, CN, OOP)
 - 🧱 System Design Basics
 - 💬 HR + Behavioral Prep
 - 🧮 Aptitude + Reasoning
 
-## 📂 Structure
-
-- `DSA/` – LeetCode, GFG, coding patterns
-- `CS-Fundamentals/` – Notes from standard books and videos
-- `SystemDesign/` – Basics and low-level design
-- `HR-Prep/` – Common questions and my answers
-- `Projects/` – Resume-worthy projects
+ 
 
 ## 💼 Goal
 
