@@ -38,6 +38,7 @@ Welcome to my DSA repository where I solve problems by topic. Below are categori
 
 ## Design DataStructure
 - [ ] ["Checkout Bulk Pricing Problem](calucuateCartValue.cpp)
+- [ ] ["Design Vector"](designVector.cpp)
 ---
 
 
