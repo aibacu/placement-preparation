@@ -8,8 +8,9 @@ Welcome to my DSA repository where I solve problems by topic. Below are categori
 ## Arrays
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 
-it is example
-- it is ex
+💡 **Hint**: Use a hash map to store the difference `target - nums[i]` while iterating.
+
+     - it is ex
 
 # Example Code: Two Sum (C++)
 
