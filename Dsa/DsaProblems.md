@@ -9,30 +9,6 @@ Welcome to my DSA repository where I solve problems by topic. Below are categori
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 
 💡 **Hint**: Use a hash map to store the difference `target - nums[i]` while iterating.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- it is ex
-- hey
-
 # Example Code: Two Sum (C++)
 
 ```cpp
@@ -87,5 +63,8 @@ int main() {
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 
+## Design DataStructure
+- [ ] ["Checkout Bulk Pricing Problem](calucuateCartValue.cpp)
 ---
+
 
