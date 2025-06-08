@@ -7,33 +7,6 @@ Welcome to my DSA repository where I solve problems by topic. Below are categori
 
 ## Arrays
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-
-## Strings
-- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-
-## Linked List
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [x] [Detect Cycle in Linked List](https://leetcode.com/problems/linked-list-cycle/)
-
-## Trees
-- [ ] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-- [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-
-## Sliding Window
-- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
-
-## Graphs
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
-- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
-
-## Dynamic Programming (DP)
-- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
-
----
 
 # Example Code: Two Sum (C++)
 
@@ -62,3 +35,32 @@ int main() {
     cout << "Indices: " << result[0] << ", " << result[1] << endl;
     return 0;
 }
+```
+- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
+## Strings
+- [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+## Linked List
+- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Detect Cycle in Linked List](https://leetcode.com/problems/linked-list-cycle/)
+
+## Trees
+- [ ] [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+
+## Sliding Window
+- [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+
+## Graphs
+- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [ ] [Course Schedule](https://leetcode.com/problems/course-schedule/)
+
+## Dynamic Programming (DP)
+- [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+- [ ] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
+---
+
