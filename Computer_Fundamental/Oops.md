@@ -399,6 +399,7 @@ int main() {
 <details>
   <summary>Answer</summary> 
 
+
   ![alt text](../Resume&Project/image-25.png)
 
   -  Yes, in Java, multiple inheritance is possible through interfaces
