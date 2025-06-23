@@ -7,6 +7,7 @@ This repository contains everything I’m using to prepare for Software Developm
 - 🧱 System Design Basics
 - 💬 HR + Behavioral Prep
 - 🧮 Aptitude + Reasoning
+- ✅ [Resume&Project ](Resume&Project/resume&Project.md)
 
  
 

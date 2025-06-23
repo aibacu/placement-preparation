@@ -1,3 +1,7 @@
+
+[Oops ](Dsa/DsaProblems.md)
+
+
 ## what is relational and non relationl data base when to use which ?
 ## what is horizonal scaling and vertiacl scaling?
 ## what is transaction and Acid property
